@@ -23,5 +23,5 @@
 - Classes
 - NodeJS Installed
 - An IDE
-- TypeScript Installed -> '''npm i -g typescript'''
+- TypeScript Installed -> `npm i -g typescript`
 - MOST IMPORTANT -> Computer and Internet Connection 🙃
